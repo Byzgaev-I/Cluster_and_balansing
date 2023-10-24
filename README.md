@@ -16,9 +16,20 @@
 
  ![image](https://github.com/Byzgaev-I/Cluster_and_balansing/blob/main/3%20servera%20test.png)
 
-Устанавливил HAProxy c конфигурацией и проверил статус
+Установил HAProxy c конфигурацией и проверил статус
  
 ![image](https://github.com/Byzgaev-I/Cluster_and_balansing/blob/main/haproxy%20status.png)
+
+Конфигурация haproxy для балансировки по методу Round-robin на 4 уровне.
+
+```
+listen web_tcp
+        bind :1325
+        server s1 127.0.01:8888 check inter 3s
+        server s2 127.0.01:9999 check inter 3s
+        server s3 127.0.01:8500 check inter 3s
+
+```
 
 
 
