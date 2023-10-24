@@ -10,9 +10,13 @@
 
 ### Выполнения задания 1
 
- Запустил сразу три сервера на виртуальной машине на разных портах.
+ Запустил сразу три сервера на виртуальной машине на разных портах и проверил работоспособность.
 
  ![image](https://github.com/Byzgaev-I/Cluster_and_balansing/blob/main/3%20servera.png)
+
+ ![image](https://github.com/Byzgaev-I/Cluster_and_balansing/blob/main/3%20servera%20test.png)
+
+ 
  
 
 
