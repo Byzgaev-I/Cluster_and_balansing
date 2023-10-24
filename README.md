@@ -30,6 +30,7 @@ listen web_tcp
         server s3 127.0.01:8500 check inter 3s
 
 ```
+[Файл haproxy.cfg](https://github.com/Byzgaev-I/Cluster_and_balansing/blob/main/01_haproxy.cfg)
 
 
 
