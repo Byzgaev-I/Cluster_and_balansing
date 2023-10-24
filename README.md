@@ -51,4 +51,8 @@ HAProxy Statistics
 
 ![image](https://github.com/Byzgaev-I/Cluster_and_balansing/blob/main/3%20сервера%202.png)
 
+Отредактировал конф.файл.
+
 [Файл haproxy2.cfg](https://github.com/Byzgaev-I/Cluster_and_balansing/blob/main/02_haproxy.cfg)
+
+![image](https://github.com/Byzgaev-I/Cluster_and_balansing/blob/main/2-%20stats.png)
