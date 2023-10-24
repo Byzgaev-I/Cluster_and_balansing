@@ -16,8 +16,10 @@
 
  ![image](https://github.com/Byzgaev-I/Cluster_and_balansing/blob/main/3%20servera%20test.png)
 
+Устанавливил HAProxy c конфигурацией и проверил статус
  
- 
+![image](https://github.com/Byzgaev-I/Cluster_and_balansing/blob/main/haproxy%20status.png)
+
 
 
  
