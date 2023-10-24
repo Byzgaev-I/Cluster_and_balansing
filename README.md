@@ -32,6 +32,12 @@ listen web_tcp
 ```
 [Файл haproxy.cfg](https://github.com/Byzgaev-I/Cluster_and_balansing/blob/main/01_haproxy.cfg)
 
+HAProxy Statistics
+
+![image](https://github.com/Byzgaev-I/Cluster_and_balansing/blob/main/Stats%20tcp.png)
+
+
+
 
 
  
