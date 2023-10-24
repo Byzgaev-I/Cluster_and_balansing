@@ -12,6 +12,8 @@
 
  Запустил сразу три сервера на виртуальной машине на разных портах.
 
+ ![image] (https://github.com/Byzgaev-I/Cluster_and_balansing/blob/main/3%20servera.png)
+ 
 
 
  
