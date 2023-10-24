@@ -49,6 +49,6 @@ HAProxy Statistics
 
 запустил три сервера : Server1 порт: 8888, Server2 порт: 9999,Server3 порт: 8500
 
+![image](https://github.com/Byzgaev-I/Cluster_and_balansing/blob/main/3%20сервера%202.png)
 
-
- 
+[Файл haproxy2.cfg](https://github.com/Byzgaev-I/Cluster_and_balansing/blob/main/02_haproxy.cfg)
